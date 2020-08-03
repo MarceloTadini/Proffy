@@ -21,11 +21,7 @@
     font-size: 60%; /* controle das medidas rem */
 }
 
-body{
-    background-color: var(--color-background);
-}
-
-* {
-    margin: 0em;
-    
+#container{
+    border: 1px solid red;
+    padding: 10px 40px 60px 2px;
 }
