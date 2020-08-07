@@ -1,0 +1,26 @@
+{
+  "name": "nlw2",
+  "version": "1.0.0",
+  "description": "* Na página inicial pode ser pesquisado um ponto de coleta de lixo ou cadastrado algum outro ponto.\r * Na página de cadastro, será apresentado um formulário onde é necessário entrar com os dados do novo ponto de coleta.\r * Na página de busca, serão apresentados os pontos de coleta já cadastrados.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloTadini/Proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarceloTadini/Proffy/issues"
+  },
+  "homepage": "https://github.com/MarceloTadini/Proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
