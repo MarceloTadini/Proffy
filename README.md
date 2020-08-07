@@ -17,5 +17,4 @@
 * SQL
 * JavaScript
 
-## Vídeo do funcionamento :clapper:
- 
+ ## Vídeo do funcionamento :clapper:
