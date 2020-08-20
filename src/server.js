@@ -23,3 +23,4 @@ server.use(express.static("public"))
 
     .listen(5500)
 
+//Comando para iniciar o servidor: npm run dev
